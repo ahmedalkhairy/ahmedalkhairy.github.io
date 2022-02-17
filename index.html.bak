@@ -68,7 +68,6 @@
     </div>
   </header><!-- End Header -->
 
-<?php  echo(1); ?>
   <!-- ======= About Section ======= -->
   <section id="about" class="about">
 
